@@ -1,0 +1,852 @@
+﻿id2,id,keyword,translation,username1,status1,cant_post1,wait_msg1,hidden_from_timeline1,missing_1hr_later1,missing_24hrs_later1,deleted_msg1,deleted_msg_time1,username2,status2,cant_post,wait_msg,hidden_from_timeline,missing_1hr_later
+1,1,﻿浦志强+律师,Pu Zhiqiang+lawyer,user1,active,,,,,,,,user17,,,,,
+2,8,哈儿律师+抄家,Lawyer Har+search home and confiscate property,user1,,,,1,,,,,user17,,,,1,1
+3,9,浦+律师+失联,Pu+lawyer+lose contact,user1,,,,,,,,,user17,,,,,
+4,10,浦+律师+失踪,Pu+lawyer+missing,user1,,,,1,1,1,,,user17,,,,1,1
+5,11,浦+律师+抄家,Pu+laywer+search home and confiscate property,user1,,,,1,1,1,,,user17,,,,,1
+6,12,陈一谘,Chen Yizi,user1,,,,,,,,,user17,,,,,
+7,15,曾庆红+儿子,Zeng Qinghong+son,user1,,,,1,1,1,,,user17,,,,1,1
+8,16,曾庆红+陈峰,Zeng Qinghong+Chen Feng,user1,,,,1,1,1,,,user17,,,,1,1
+9,17,曾庆红+刘振亚,Zeng Qinghong+Liu Zhenya,user1,,,,1,1,1,,,user17,,,,1,1
+10,18,曾伟+鲁能,Zeng Wei+Luneng,user1,,,,1,1,1,,,user17,,,,,
+11,19,王凤清+侄女,Wang Fengqing+niece,user1,,,,,,,,,user17,,,,,
+12,20,李克强+王俊莲,Li Keqiang+Wang Junlian,user1,,,,,,,,,user17,,,,,
+13,21,林昭+无罪,Lin Zhao+innocent,user1,,,,,,,,,user17,,,,,
+14,22,林昭+苏州祭奠,Lin Zhao+Suzhou memorial rites,user1,,,,,,,,,user17,,,,,
+15,23,毛+鞭尸,Mao+beat the body of the dead,user1,,,,,,,,,user17,,,,,
+16,24,毛+僵尸,Mao+zombie,user1,,,,,,,,,user17,,,,,1
+17,25,毛+屠夫,Mao+butcher,user1,,,,,1,1,,,user17,,,,,1
+18,26,毛+屠杀,Mao+massacre,user1,,,,,,,,,user17,,,,,
+19,30,林昭+右派,Lin Zhao+rightist,user1,,,,,,,,,user17,,,,,
+20,31,林昭+扫墓,Lin Zhao+pay respects,user1,,,,,,,,,user17,,,,,
+21,32,25周年纪念 ,25th anniversary commemoration,user1,,,,,,,,,user17,,,,,
+22,35,胡占凡+内幕交易,Hu Zhanfan+insider trading,user1,,,,,1,1,,,user17,,,,,1
+23,36,（周）元根 ,(Zhou) Yuangen,user1,,,,,,,,,user17,,,,,
+24,37,老老虎,old tiger,user1,,,,1,,,,,user17,,,,1,1
+25,38,old老虎,old tiger,user1,,,,,,,,,user17,,,,,
+26,44,杨佳+我还有话要说,Yang Jia+When Night Falls,user1,,,,,1,1,,,user17,,,,,1
+27,45,杨佳+电影,Yang Jia+film,user1,,,,,,,,,user17,,,,,1
+28,46,应亮+我还有话要说,Ying Liang+When Night Falls,user1,,,,,,,,,user17,,,,1,1
+29,47,应亮+杨佳,Ying Liang+Yang Jia,user1,,,,,,,,,user17,,,,,1
+30,48,申维辰+谭晶,Shen Weichen+Tan Jing,user1,,,,1,1,1,,,user17,,,,1,1
+31,49,柯玲玲,Ke Lingling,user1,,,,,1,1,,,user17,,,,,1
+32,50,习近平+前妻,Xi Jinping+former wife,user1,,,,1,1,1,,,user17,,,,1,1
+33,51,刘卫国,Liu Weiguo,user1,,,,,,,,,user17,,,,,
+34,52,丁家喜+法院,Ding Jiaxi+court,user1,,,,1,1,1,,,user17,,,,1,1
+35,53,丁家喜+旁听,Ding Jiaxi+observe [trial],user1,,,,1,1,1,,,user17,,,,1,1
+36,54,丁家喜+财产公示,Ding Jiaxi+financial disclosure,user1,,,,1,1,1,,,user17,,,,1,1
+37,55,丁家喜+官员财产,Ding Jiaxi+officials' assets,user1,,,,1,1,1,,,user17,,,,1,1
+38,56,李蔚+法院,Li Wei+court,user1,,,,,,,,,user17,,,,,
+39,57,李蔚+旁听,Li Wei+observe [trial],user1,,,,,,,,,user17,,,,,
+40,58,李蔚+财产公示,Li Wei+financial disclosure,user1,,,,,,,,,user17,,,,,
+41,59,李蔚+官员财产,Li Wei+officials' assets,user1,,,,,,,,,user17,,,,,
+42,60,公民+运动,citizen+movement,user1,,,,,,,,,user17,,,,,
+43,61,赵常青,Zhao Changqing,user1,,,,1,1,1,,,user17,,,,1,1
+44,75,茂名+上街+散步,Maoming+take to the streets+take a walk,user1,,,,,,,,,user17,,,,,1
+45,77,maoming+上街+散步,Maoming+take to the streets+take a walk,user1,,,,,,,,,user17,,,,,
+46,78,詹敏利,Zhan Muli,user1,,,,,,,,,user17,,,,,
+47,81,三峡+老虎,Three Gorges+tiger,user1,,,,,,,,,user17,,,,,
+48,82,电力+老虎,electric power+tiger,user1,,,,,,,,,user17,,,,,
+49,83,张春贤+国安委,Zhang Chunxian+National Security Commission,user1,,,,,,,,,user17,,,,,1
+50,84,周元根,Zhou Yuangen,user1,,,,,,,,,user17,,,,,
+51,85,政局动荡,political upheaval,user1,,,,,,,,,user18,,,,,
+52,86,Freeweibo,Freeweibo,user1,,,,1,1,1,,,user18,,,,1,
+53,87,抛售人民币,undersell the Renminbi,user1,,,,,,,,,user18,,,,,
+54,88,藏青会,Tibetan Youth Congress,user1,,,,,1,1,,,user18,,,,,1
+55,90,习+集权,Xi+centralization of state power,user1,,,,1,1,1,,,user18,,,,1,1
+56,91,习+江,Xi+Jiang,user1,,,,,,,,,user18,,,,,
+57,92,席主席,President Mat,user2,deleted,,,1,.,,,,user18,,,,,
+58,93,除习,remove Xi,user2,,,,1,.,,,,user18,,,,1,1
+59,95,中南海+（权）斗,Zhongnanhai+(power) struggle,user2,,,,,.,,,,user18,,,,,
+60,96,新疆+刀,Xinjiang+knife,user2,,,,,.,,,,user18,,,,,
+61,97,新疆+恐怖,Xinjiang+terror,user2,,,,,.,,,,user18,,,,,1
+62,98,新疆人+桂林,Xinjianger+Guilin,user2,,,,,.,,,,user18,,,,,1
+63,99,维吾尔族+砍,Uyghur+cut,user2,,,,,.,,,,user18,,,,,1
+64,100,桂林+西门桥,Guilin+Ximenqiao,user2,,,,,.,,,,user18,,,,,1
+65,102,桂林西门桥+宝马车司机,Guilin Ximenqiao+BMW driver,user2,,,,,.,,,,user18,,,,,1
+66,103,西门桥+宝马车司机+新疆疑犯,Ximenqiao+BMW driver+Xinjiang suspect,user2,,,,1,.,,,,user18,,,,1,
+67,104,中国烈士旅,China Martyrs Brigade,user2,,,,,.,,,,user18,,,,,1
+68,105,皮帽子,pi maozi [fur hats],user2,,,,,.,,,,user18,,,,,1
+69,106,沈培平被调查+贺国强,Shen Peiping under investigation+He Guoqiang,user2,,,,,.,,,,user18,,,,,
+70,107,贺锦涛,He Jintao,user2,,,,1,.,,,,user18,,,,1,
+71,108,刘霞+软禁,Liu Xia+house arrest,user2,,,,,.,,,,user18,,,,,1
+72,109,曹顺利,Cao Shunli,user2,,,,1,.,,,,user18,,,,1,
+73,110,捍卫新闻自由,defend freedom of the press,user2,,,,,.,,,,user18,,,,,1
+74,111,一审判决+公民,one trial judgment+citizen,user2,,,,,.,,,,user18,,,,,1
+75,112,丁家喜+赵常青,Ding Jiaxi+Zhao Changqing,user2,,,,1,.,,,,user18,,,,1,
+76,113,李蔚+袁冬,Li Wei+Yuan Dong,user2,,,,,.,,,,user18,,,,,1
+77,114,侯欣+法院,Hou Xin+court,user2,,,,,.,,,,user18,,,,,1
+78,116,离岸+维京,offshore+Virgin [Islands],user2,,,,,.,,,,user18,,,,,1
+79,117,离岸+金融,offshore+finances,user2,,,,,.,,,,user18,,,,,1
+80,118,双规+大老虎,shuanggui+big tiger,user2,,,,,.,,,,user18,,,,,1
+81,119,逮捕+大老虎,arrest+big tiger,user2,,,,,.,,,,user18,,,,,1
+82,120,温老虎,Tiger Wen,user2,,,,,.,,,,user18,,,,,1
+83,121,跑官,running official,user2,,,,,.,,,,user18,,,,,1
+84,122,前核心,former inner circle,user2,,,,,.,,,,user18,,,,,1
+85,123,杨洁篪+辞职,Yang Jiechi+resign,user2,,,,,.,,,,user18,,,,,1
+86,124,习+最近严厉讲话,Xi+most recent stern speech,user2,,,,1,.,,,,user18,,,,1,1
+87,125,傅某,a certain [person surnamed] Fu,user2,,,,,.,,,,user18,,,,,1
+88,126,尚福林+落网,Shang Fulin+be captured,user2,,,,,.,,,,user18,,,,,1
+89,127,尚福林+落马,Shang Fulin+be eliminated (as in a contest),user2,,,,,.,,,,user18,,,,,1
+90,128,尚福林+137亿,Shang Fulin+13.7 billion,user2,,,,1,.,,,,user18,,,,1,1
+91,129,尚福林+敛财,Shang Fulin+gain wealth by unfair means,user2,,,,1,.,,,,user18,,,,1,1
+92,130,尚福林+贪污,Shang Fulin+graft,user2,,,,,.,,,,user18,,,,,1
+93,131,尚福林+巨贪,Shang Fulin+extremely corrupt,user2,,,,1,.,,,,user18,,,,1,1
+94,132,尚福林+辞职,Shang Fulin+resign,user2,,,,1,.,,,,user18,,,,1,1
+95,133,尚福林+被抓,Shang Fulin+be caught,user2,,,,,.,,,,user18,,,,,1
+96,134,蛤蟆+死,toad+dead,user2,,,,,.,,,,user18,,,,,1
+97,135,蛤蟆+病危,toad+critically ill,user2,,,,,.,,,,user18,,1,,,1
+98,136,伊力哈木,Ilham,user2,,,,,.,,,,user18,,,,,1
+99,138,李东生+性贿赂,Li Dongsheng+sexual bribe,user2,,,,1,.,,,,user18,,,,1,1
+100,139,性爱视频,sex tape,user3,deleted,,,,.,,,,user18,,,,,
+101,140,人渣+排行榜,scumbag+ranked list (shitlist),user3,,,,,.,,,,user19,,,,,
+102,141,解放军301+炸弹,PLA 301+bomb,user3,,,,1,.,,,,user19,,,,1,1
+103,145,花园网,Garden Networks,user3,,,,,.,,,,user19,,,,,
+104,146,习上,On Xi,user3,,,,,.,,,,user19,,,,,
+105,152,李明+公安部,Li Ming+Public Security Bureau,user3,,,,,.,,,,user19,,,,,
+106,153,李明+李东生,Li Ming+Li Dongsheng,user3,,,,,.,,,,user19,,,,,1
+107,155,北京公安局长,Beijing Public Security Bureau Director ,user3,,,,,.,,,,user19,,,,,
+108,156,香港商报+中纪委,Hong Kong Commercial Daily+Central Discipline Commission,user3,,,,1,.,,,,user19,,,,1,1
+109,157,中纪委+大老虎,Central Discipline Commission+big tiger,user3,,,,1,.,,,,user19,,,,1,1
+110,158,常委+财产,Standing Committee member+assets,user3,,,,1,.,,,,user19,,,,1,1
+111,159,方便面+抓,instant noodles+grab,user3,,,,,.,,,,user19,,,,,
+112,161,不伦不类,wishy-washy,user3,,,,,.,,,,user19,,,,,
+113,162,习+作秀,Xi+put on a show,user3,,,,,.,,,,user19,,,,,
+114,163,习+炒作,Xi+speculate,user3,,,,,.,,,,user19,,,,,
+115,164,习+演戏,Xi+put on an act,user3,,,,,.,,,,user19,,,,,
+116,165,习+大动作,Xi+big move,user3,,,,,.,,,,user19,,,,,
+117,166,习+新政,Xi+new administration,user3,,,,,.,,,,user19,,,,,
+118,167,习+前任,Xi+predecessor,user3,,,,,.,,,,user19,,,,,
+119,168,习+周,Xi+Zhou [Yongkang],user3,,,,,.,,,,user19,,,,,
+120,169,李东生+习,Li Dongsheng+Xi,user3,,,,,.,,,,user19,,,,,
+121,170,习负责,Xi is responsible [for...],user3,,,,,.,,,,user19,,,,,
+122,171,习明（泽）,Xi Ming[ze],user3,,1,,,.,,,,user19,,1,,1,1
+123,172,政治谣言,political rumor,user3,,,,,.,,,,user19,,,,,
+124,173,政治内幕,politics behind the scenes,user3,,,,,.,,,,user19,,,,,
+125,174,刀+新疆,knife+Xinjiang,user3,,,,,.,,,,user19,,,,,
+126,175,军队+警察,army+police,user3,,,,,.,,,,user19,,,,,
+127,176,毛+专制,Mao+autocracy,user3,,,,,.,,,,user19,,,,,
+128,177,毛+独裁,Mao+dictatorship,user3,,,,,.,,,,user19,,,,,
+129,178,周老虎,Tiger Zhou,user3,,,,,.,,,,user19,,,,,1
+130,179,周政法,Politburo Zhou,user3,,,,,.,,,,user19,,,,,
+131,180,方便面+下台,instant noodles+leave office,user3,,,,,.,,,,user19,,,,,
+132,181,方便面+出事,instant noodles+have a mishap,user3,,,,,.,,,,user19,,,,,
+133,182,方便面+双规,instant noodles+double detention,user3,,,,,.,,,,user19,,,,,
+134,183,方便面+被抓,instant noodles+caught,user3,,,,,.,,,,user19,,,,,
+135,184,方便面+被捕,instant noodles+arrested,user3,,,,,.,,,,user19,,,,,
+136,186,吴兵+白手套,Wu Bin+white glove ,user3,,,,,.,,,,user19,,,,,
+137,187,令谷,Ling Gu,user3,,,,,.,,,,user19,,,,,1
+138,189,李东生+汤灿,Li Dongsheng+Tang Can,user3,,,,,.,,,,user19,,,,,1
+139,190,李东生+周,Li Dongsheng+Zhou,user3,,,,,.,,,,user19,,,,,1
+140,191,李东生+zhou,Li Dongzheng+zhou,user3,,,,,.,,,,user19,,,,,1
+141,192,李东生+ZK,Li Dongsheng+ZK,user3,,,,,.,,,,user19,,,,,1
+142,193,曹建明+调查,Cao Jianming+investigate,user3,,,,1,.,,,,user19,,,,1,1
+143,194,习+某平,Xi+Some-ping,user3,,,,,.,,,,user19,,,,,
+144,195,习+平平,Xi+Pingping,user3,,,,,.,,,,user19,,,,,
+145,196,习+亲属,Xi+relatives,user3,,,,,.,,,,user19,,,,,
+146,199,政府比房产商黑,government is shadier than property developers,user3,,,,,.,,,,user19,,,,,
+147,202,周勇康,Zhou Brave [yong]-kang,user3,,,,,.,,,,user19,,,,,
+148,203,周永糠,Zhou Yong-bran [kang],user3,,1,,,.,,,,user19,,1,,,
+149,204,州永康,State [Zhou] Yongkang,user3,,,,,.,,,,user19,,,,,
+150,205,洲永康,Continent [Zhou] Yongkang,user3,,,,,.,,,,user19,,,,,
+151,206,粥永康,Congee [Zhou] Yongkang,user4,deleted,,,,.,,,,user20,,,,,
+152,207,粥永糠,Congee Yong-bran,user4,,,,,.,,,,user20,,,,,
+153,208,粥涌康,Congee Gush [yong]-kang,user4,,,,,.,,,,user20,,,,,
+154,209,舟永康,Boat [Zhou] Yongkang,user4,,,,,.,,,,user20,,,,,
+155,210,咏康,Chant [yong]-kang,user4,,,,,.,,,,user20,,,,,
+156,211,咏糠,Chant-bran,user4,,,,,.,,,,user20,,,,,
+157,212,涌康,Gush-kang,user4,,,,,.,,,,user20,,,,,
+158,213,涌糠,Gush-bran,user4,,,,,.,,,,user20,,,,,
+159,214,臃康,Swollen [yong]-kang,user4,,,,,.,,,,user20,,,,,
+160,215,媒体管制,regulation of media,user4,,,,,.,,,,user20,,,,,1
+161,216,微博+审查,Weibo+censor,user4,,,,,.,,,,user20,,,,,
+162,217,小秘书+审查,little secretary+censor,user4,,,,,.,,,,user20,,,,,
+163,218,总理+改革,premier+reform,user4,,,,,.,,,,user20,,,,,
+164,219,王铮,Wang Zheng,user4,,,,,.,,,,user20,,,,,
+165,220,至宪党,Zhi Xian Party,user4,,,,1,.,,,,user20,,,,1,1
+166,221,天安门+访民,Tiananmen+petitioners,user4,,,,,.,,,,user20,,,,,1
+167,222,天安门+撒传单,Tiananmen+scatter pamphlets,user4,,,,1,.,,,,user20,,,,1,1
+168,224,天安门+炸弹,Tiananmen+bomb,user4,,,,,.,,,,user20,,,,,
+169,225,天安门+爆炸,Tiananmen+explosion,user4,,,,1,.,,,,user20,,,,1,1
+170,226,宪法法院,constitutional court,user4,,,,,.,,,,user20,,,,,
+171,227,（习）近平+薄,(Xi) Jinping+Bo [Xilai],user4,,,,,.,,,,user20,,,,,
+172,228,（习）近平+锦涛,(Xi) Jinping+[Hu] Jintao,user4,,,,,.,,,,user20,,,,,
+173,240,习+家族,Xi+family,user4,,,,,.,,,,user20,,,,,1
+174,242,高层恩怨与习仲勋,"Grudges, Gratitude, and Xi Zhongxun",user4,,,,,.,,,,user20,,,,,1
+175,244,刁明泽,Xi Mingze,user4,,,,1,.,,,,user20,,,,1,1
+176,245,习正宁,Xi Zhengning,user4,,,,,.,,,,user20,,,,,
+177,246,习富平,Xi Fuping,user4,,,,,.,,,,user20,,,,,
+178,247,习和平,Xi Heping,user4,,,,,.,,,,user20,,,,,
+179,248,习干平,Xi Ganping,user4,,,,,.,,,,user20,,,,,
+180,249,习桥桥 ,Xi Qiaoqiao,user4,,,,,.,,,,user20,,,,,1
+181,250,习安安,Xi An'an,user4,,,,,.,,,,user20,,,,,
+182,251,习远平,Xi Yuanping,user4,,,,,.,,,,user20,,,,,1
+183,252,刁远平,Diao Yuanping,user4,,,,1,.,,,,user20,,,,1,1
+184,253,习明正,Xi Mingzheng,user4,,,,,.,,,,user20,,,,,
+185,254,中华民国+万岁,long live+Republic of China,user4,,,,,.,,,,user20,,,,,
+186,256,周永kang,Zhou Yongkang,user4,,1,,,.,,,,user20,,1,,,
+187,257,z永康,z Yongkang,user4,,,,,.,,,,user20,,,,,
+188,259,康师傅+中石油,Kang Shifu+CNPC,user4,,,,,.,,,,user20,,,,,
+189,260,康师傅+儿子,Kang Shifu+son,user4,,,,,.,,,,user20,,,,,
+190,261,周薄,Zhou Bo,user4,,,,,.,,,,user20,,,,,
+191,262,习+同志,comrade+Xi,user4,,,,,.,,,,user20,,,,,
+192,266,习梦撕,Xi The Dream-Ripper,user4,,,,1,.,,,,user20,,,,1,1
+193,267,蒋公剿匪不力,Master Chiang fails to suppress the bandits,user4,,,,,.,,,,user20,,,,,1
+194,268,习梦撕（指习,Doctor [of Philosophy] Xi ,user4,,,,1,.,,,,user20,,,,1,1
+195,270,刘美珣,Liu Meixun,user4,,,,1,.,,,,user20,,,,1,1
+196,271,半羽,Half-Feather,user4,,,,1,.,,,,user20,,,,1,1
+197,272,习三胖,Xi Third-Fatty,user4,,1,,,.,,,,user20,,1,,,
+198,273,习+左,Xi+left,user4,,,,,.,,,,user20,,,,,
+199,274,习+新政,Xi+new administration,user4,,,,,.,,,,user20,,,,,
+200,275,习+司令,Xi+commanding officer,user4,,,,1,.,,,,user20,,,,1,1
+201,276,宪政,constitutionalism,user5,active,,,,,,,,user21,,,,,1
+202,279,薄+保外就医,Bo+medical parole,user5,,,,,,,,,user21,,,,,
+203,280,薄+（周）永康,Bo+(Zhou) Yongkang,user5,,,,,,,,,user21,,,,,1
+204,282,薄胡,Bo Hu,user5,,,,,,,,,user21,,,,,
+205,283,五个重庆,Five Chongqings,user5,,,,,,,,,user21,,,,,1
+206,284,党内斗争,internal Party struggle,user5,,,,1,,,,,user21,,,,1,
+207,285,挺薄,support Bo,user5,,,,,,,,,user21,,,,,1
+208,286,薄公,Master Bo,user5,,,,,1,1,,,user21,,,,,1
+209,287,怀念+薄,think fondly of+Bo,user5,,,,,,,,,user21,,,,,
+210,291,马云+六四,Jack Ma+Six Four,user5,,,,1,1,1,,,user21,,,,1,
+211,292,马云+64,Jack Ma+64,user5,,,,,,,,,user21,,,,,
+212,293,马云+八九,Jack Ma+Eight Nine,user5,,,,,,,,,user21,,,,,
+213,296,许博士,Dr. [of Philosophy] Xu,user5,,,,,,,,,user21,,,,,
+214,297,刘卫国,Liu Weiguo,user5,,,,,,,,,user21,,,,,
+215,299,陈建刚,Chen Jiangang,user5,,,,,,,,,user21,,,,,1
+216,305,李小琳,Li Xiaolin,user5,,,,,,,,,user21,,,,,1
+217,307,张晓明,Zhang Xiaoming,user5,,,,,,,,,user21,,,,,
+218,308,基本法+23,Basic Law+23,user5,,,,,,,,,user21,,,,,
+219,309,基本法+二十三,Basic Law+twenty-three,user5,,,,,,,,,user21,,,,,
+220,310,江贼,Jiang Betray[-the-People],user5,,,,,,,,,user21,,,,,
+221,311,贼民,[Jiang] Betray-the-People,user5,,,,,,,,,user21,,,,,
+222,314,游xing,YOUxing [march],user5,,,,,,,,,user21,,,,,
+223,315,皮帽子,leather hat,user5,,,,,,,,,user21,,,,,
+224,316,呆婊,stupid prostitutes,user5,,,,1,,,,,user21,,,,1,
+225,318,新疆+恐怖,Xinjiang+terror,user5,,,,,,,,,user21,,,,,
+226,322,浙大教授+上书,Zhejiang U. professor+submit letter to superior,user5,,,,,,,,,user21,,,,,
+227,324,习帝,Emperor Xi [Jinping],user5,,,,1,1,1,,,user21,,,,,
+228,325,习大人,His Excellency Xi [Jinping],user5,,,,,,,,,user21,,,,,
+229,326,政法委,Politics and Law Commission,user5,,,,,,,,,user21,,,,,
+230,327,zhengbian,zhengbian (coup),user5,,,,,,,,,user21,,,,,
+231,331,孙政才+孟山都,Sun Zhengcai+Monsanto,user5,,,,,1,1,,,user21,,,,,1
+232,332,孙政才+转基因,Sun Zhengcai+genetic modification,user5,,,,,1,1,,,user21,,,,,1
+233,333,亡党,lose the Party,user5,,,,,,,,,user21,,,,,1
+234,338,栗战书,Li Zhanshu,user5,,,,,,,,,user21,,,,,
+235,339,Li战书,Li Zhanshu,user5,,,,,,,,,user21,,,,,
+236,340,栗zhanshu,Li Zhanshu,user5,,,,,,,,,user21,,,,,
+237,341,习哥,Brother Xi,user5,,,,,,,,,user21,,,,,
+238,342,刁哥,Brother Sly,user5,,1,,,,,,,user21,,1,,,
+239,348,第一夫人+苹果,first lady+apple,user5,,,,,1,1,,,user21,,,,,
+240,350,国母+手机,first lady+cell phone,user5,,,,,,,,,user21,,,,,
+241,351,国母+苹果,first lady+apple,user5,,,,,,,,,user21,,,,,
+242,352,国母+iphone,first lady+iPhone,user5,,,,,,,,,user21,,,,,
+243,353,习夫人+手机,Mrs. Xi+cell phone,user5,,,,,,,,,user21,,,,,
+244,354,习夫人+拍照,Mrs. Xi+take a photo,user5,,,,,,,,,user21,,,,,
+245,355,习夫人+苹果,Mrs. Xi+apple,user5,,,,,,,,,user21,,,,,
+246,356,习夫人+iphone,Mrs. Xi+iPhone,user5,,,,,,,,,user21,,,,,
+247,357,peng+liyuan,peng+liyuan,user5,,1,,,,,,,user21,,1,,,
+248,358,当前意识形态领域情况,current situation of the ideological sphere,user5,,,,,,,,,user21,,,,,
+249,363,hk64,hk64,user5,,,,,,,,,user21,,,,,
+250,371,网络封锁,Internet block,user5,,,,,,,,,user21,,,,,
+251,372,蟹农场,Hexie Farm,user6,active,,,,,,,,user22,deleted,,,,.
+252,374,习+影帝,Xi+movie star,user6,,,,,,,,,user22,deleted,,,,.
+253,389,陆四,six four,user6,,,,1,,,,,user22,deleted,,,1,.
+254,394,六four,six four,user6,,,,1,1,1,,,user22,deleted,,,,.
+255,395,six四,six four,user6,,,,1,1,1,,,user22,deleted,,,,.
+256,396,six+four,six+four,user6,,,,1,1,1,,,user22,deleted,,,,.
+257,408,tiananmen,tiananmen,user6,,,,,,,,,user22,deleted,,,,.
+258,413,反官倒,against bureaucratic profiteering,user6,,,,,,,,,user22,deleted,,,,.
+259,419,戒严,martial law,user6,,,,,,,,,user22,deleted,,,,.
+260,420,学运,student movement,user6,,,,1,1,1,,,user22,deleted,,,,.
+261,421,学潮,student strike,user6,,,,1,1,1,,,user22,deleted,,,,.
+262,426,丁子霖,Ding Zilin,user6,,,,,,,,,user22,deleted,,1,1,.
+263,429,赵紫阳,Zhao Ziyang,user6,,,1,1,,,,,user22,deleted,,1,1,.
+264,430,李鹏,Li Peng,user6,,,,,,,,,user22,deleted,,,,.
+265,431,袁木,Yuan Mu,user6,,,,,,,,,user22,deleted,,,,.
+266,432,严家其,Yan Jiaqi,user6,,,,,,,,,user22,deleted,,,,.
+267,434,高官子女+回国,children of high officials+return home,user6,,,,,,,,,user22,deleted,,,,.
+268,437,司徒华,Szeto Wah,user6,,,,,,,,,user22,deleted,,,,.
+269,438,李建国+调查,Li Jianguo+investigation,user6,,,,,,,,,user22,deleted,,,,.
+270,443,youxing,youxing (march),user6,,,,,,,,,user22,deleted,,,,.
+271,444,鲍朴,Bao Pu,user6,,,,,,,,,user22,deleted,,,,.
+272,446,吴昌龙,Wu Changlong,user6,,,,,,,,,user22,deleted,,,,.
+273,449,陈科云,Chen Keyun,user6,,,,,,,,,user22,deleted,,,,.
+274,454,维权律师,rights defense lawyers,user6,,,,,,,,,user22,deleted,,,,.
+275,455,赤匪,red bandits,user6,,,,,1,1,,,user22,deleted,,,,.
+276,456,红匪,red bandits,user6,,,,,1,1,,,user22,deleted,,,,.
+277,457,gong匪,gong bandits,user6,,1,,,,,,,user22,deleted,1,,,.
+278,458,gongfei,gongfei,user6,,,,,,,,,user22,deleted,,,,.
+279,462,七不讲,seven say-nots,user6,,,,,,,,,user22,deleted,,,,.
+280,464,六点声明,six-point statement,user6,,,,,,,,,user22,deleted,,,,.
+281,465,邓卓棣+美国,Deng Zhuodi+U.S.,user6,,,,,1,1,,,user22,deleted,,,,.
+282,466,邓卓棣+性骚扰,Deng Zhuodi+sexual harassment,user6,,,,1,1,1,,,user22,deleted,,,1,.
+283,467,邓卓棣+红三代, Deng Zhuodi+red third generation,user6,,,,,1,1,,,user22,deleted,,,,.
+284,484,财产公示+九君子,financial disclosure+nine gentlemen,user6,,,,1,1,1,,,user22,deleted,,,1,.
+285,488,世维会,World Uyghur Congress,user6,,,,,,,,,user22,deleted,,,,.
+286,490,成都PX项目,Chengdu PX project,user6,,,,,,,,,user22,deleted,,,,.
+287,496,李克强+作秀,Li Keqiang+put on a show,user6,,,,,,,,,user22,deleted,,,,.
+288,497,总理+影帝,prime minister+movie star,user6,,,,1,1,1,,,user22,deleted,,,1,.
+289,498,三峡+四川地震,Three Gorges+Sichuan earthquake,user6,,,,1,1,1,,,user22,deleted,,,1,.
+290,499,西金平,West Gold-peace (Xi Jinping),user6,,1,,,,,,,user22,deleted,1,,,.
+291,500,西晋平,Western Jin Peace (Xi Jinping),user6,,1,,,,,,,user22,deleted,1,,,.
+292,501,洗尽平,Fully-washed Peace,user6,,1,,,,,,,user22,deleted,1,,,.
+293,502,洗净平,Whistle-clean Peace (Xi Jinping),user6,,1,,,,,,,user22,deleted,1,,,.
+294,503,洗进瓶,Wash into Bottle (Xi Jinping),user6,,,,,,,,,user22,deleted,,,,.
+295,504,锡金瓶,Sikkim Bottle (Xi Jinping),user6,,1,,,,,,,user22,deleted,1,,,.
+296,514,习+总书记,Xi+secretary-general,user6,,,,,,,,,user22,deleted,,,,.
+297,521,改革派,reformist,user6,,,,,1,1,,,user22,deleted,,,,.
+298,522,胡赵,Hu Zhao,user6,,,,,,,,,user22,deleted,,,,.
+299,523,胡总书记,Secretary-General Hu,user6,,,,,,,,,user22,deleted,,,,.
+300,528,统筹两个舆论场,coordinate two spaces for public opinion,user6,,,,1,1,,,,user22,deleted,,,1,.
+301,530,陕西宣传部,Shaanxi Propaganda Department,user7,active,,,,,,,,user23,deleted,,,,.
+302,534,猪席,pig mat,user7,,,,,,1,,,user23,deleted,,,,.
+303,535,主习,lord Xi,user7,,,,,,,,,user23,deleted,,,,.
+304,536,猪习,pig Xi,user7,,,,,,,,,user23,deleted,,,,.
+305,538,习+facebook,Xi+facebook,user7,,,,,,,,,user23,deleted,,,,.
+306,539,习+脸谱,Xi+facebook,user7,,,,,,,,,user23,deleted,,,,.
+307,540,xi主席,Chairman xi,user7,,,,1,1,,,,user23,deleted,,,,.
+308,541,蛤蛤,Toady,user7,,,,,,,,,user23,deleted,,,,.
+309,542,蛤丝,Toad thread,user7,,,,,,,,,user23,deleted,,,,.
+310,543,蛤主席,Chairman Toad,user7,,,,,,,,,user23,deleted,,,,.
+311,544,戒严,martial law,user7,,,,,,,,,user23,deleted,,,,.
+312,545,国保,Domestic Security Department,user7,,,,,,,,,user23,deleted,,,,.
+313,546,一党执政,one party holds power,user7,,,,,,1,,,user23,deleted,,,,.
+314,550,习boss,boss Xi,user7,,,,,,,,,user23,deleted,,,,.
+315,551,习+国母,Xi+first lady,user7,,,,,,,,,user23,deleted,,,,.
+316,555,习+江,Xi+Jiang,user7,,,,,,,,,user23,deleted,,,,.
+317,556,习+总,Xi+chief,user7,,,,,,,,,user23,deleted,,,,.
+318,557,习+李,Xi+Li,user7,,,,,,,,,user23,deleted,,,,.
+319,563,彭阿姨,Auntie Peng,user7,,,,,,,,,user23,deleted,,,,.
+320,565,江派,Jiang faction,user7,,,,1,1,1,,,user23,deleted,,,1,.
+321,570,涛宝,Tao-Bao,user7,,,,,,,,,user23,deleted,,,,.
+322,577,权力+交接,power + handover,user7,,,,,,,,,user23,deleted,,,,.
+323,578,胡习,Hu-Xi,user7,,,,1,1,,,,user23,deleted,,,1,.
+324,579,习胡,Xi-Hu,user7,,,,,,,,,user23,deleted,,,,.
+325,582,中国官场,Chinese officialdom,user7,,,,,,,,,user23,deleted,,,,.
+326,588,yu素鸡,yu veggie chicken,user7,,,,1,1,1,,,user23,deleted,1,,,.
+327,589,蛤蟆精,Toad Spirit,user7,,,,1,1,,,,user23,deleted,1,,,.
+328,594,误邦国,Wu Bangguo,user7,,1,,,,,,,user23,deleted,1,,,.
+329,595,无邦国,Wu Bangguo,user7,,,,,,,,,user23,deleted,,,,.
+330,596,吴绑国,Wu Bangguo,user7,,,,,,,,,user23,deleted,,,,.
+331,597,吴帮国,Wu Bangguo,user7,,,,,,,,,user23,deleted,,,,.
+332,598,无帮国,Wu Bangguo,user7,,1,,,,,,,user23,deleted,1,,,.
+333,599,误帮国,Wu Bangguo,user7,,,,,,,,,user23,deleted,,,,.
+334,600,新闻封锁,news blackout,user7,,,,,,,,,user23,deleted,,,,.
+335,607,送温神,see off the god Wen,user7,,,,1,1,1,,,user23,deleted,1,,,.
+336,613,三个至上,Three Above-Alls,user7,,,,,,,,,user23,deleted,,,,.
+337,617,影帝+wen,movie star + wen,user7,,,,,,1,,,user23,deleted,,,,.
+338,618,捍卫新闻自由,defend freedom of the press,user7,,,,,,1,,,user23,deleted,,,,.
+339,619,舆论钳制,suppression of public opinion,user7,,,,,,1,,,user23,deleted,,,,.
+340,622,体制外200万,2 million outside of the system,user7,,,,,,,,,user23,deleted,,,,.
+341,623,体制外二百万,two million outside of the system,user7,,,,,,,,,user23,deleted,,,,.
+342,625,刁总,President Sly,user7,,,,1,1,1,1,11/8/2014 11:30,user23,deleted,1,,,.
+343,626,刁主席,Chairman Sly,user7,,,,1,1,1,1,11/8/2014 11:30,user23,deleted,1,,,.
+344,627,贾不假,The Jia family is not fake,user7,,,,,,,,,user23,deleted,,,,.
+345,628,白玉为堂金做马,white jade form the Halls; gold compose their horses,user7,,,,,,,,,user23,deleted,,,,.
+346,630,月月鸟,Moon Moon Bird,user7,,,,,,,,,user23,deleted,,,,.
+347,650,违宪,violate the constitution,user7,,,,,,,,,user23,deleted,,,,.
+348,658,宪政,constitutionalism,user7,,,,,,1,,,user23,deleted,,,,.
+349,660,中宣,Central Propaganda [Department],user7,,,,,,,,,user23,deleted,,,,.
+350,670,庹震,Tuo Zhen,user7,,,,,,,,,user24,,,,,1
+351,676,中国梦+宪政梦,China dream + dream of constitutionalism,user8,48hr ban,,,,1,1,,,user24,,,,,1
+352,679,致敬十大反对者,Tribute to Ten Protesters,user8,,,,,1,1,,,user24,,,,,1
+353,680,泰鸿公司,Taihong Co.,user8,,,,,1,1,,,user24,,,,,1
+354,681,陈破空,Chen Pokong,user8,,,,,1,1,,,user24,,,,,1
+355,682,李克强+PS,Li Keqiang + PS,user8,,,,1,1,1,,,user24,,,,1,1
+356,684,俞正声+哥哥,Yu Zhengsheng + older brother,user8,,,,,1,1,,,user24,,,,,1
+357,685,俞正声+家族,Yu Zhengsheng + family,user8,,,,1,1,1,,,user24,,,,1,1
+358,686,张德江+动车,Zhang Dejiang + power car,user8,,,,,1,1,,,user24,,,,,
+359,689,东方闪电,Eastern Lightning,user8,,,,,1,1,,,user24,,,,,
+360,690,实际神,Real God,user8,,,,,1,1,,,user24,,,,,
+361,693,长萎,long atrophy,user8,,,,,1,1,,,user24,,,,1,
+362,694,常萎,often atrophy,user8,,,,,1,1,,,user24,,,,1,
+363,695,河殇,River Elegy,user8,,,,,1,1,,,user24,,,,,
+364,696,令JH,Ling JH,user8,,1,,,1,1,,,user24,,1,,,
+365,697,谷丽萍,Gu Liping,user8,,,,,1,1,,,user24,,,,,
+366,698,谷源旭,Gu Yuanxu,user8,,,,,1,1,,,user24,,,,,
+367,702,刘奇葆,Liu Qibao,user8,,,,,1,1,,,user24,,,,,
+368,711,抢录音笔,grab the pen recorder,user8,,,,,1,1,,,user24,,,,,
+369,712,抢笔书记,pen-grabbing secretary,user8,,,,,1,1,,,user24,,,,,
+370,713,抢笔省长,pen-grabbing governor,user8,,,,,1,1,,,user24,,,,,
+371,714,录音笔事件,pen recorder incident,user8,,,,,,,,,user24,,,,,
+372,716,向巴平措,Qiangba Puncog,user8,,,,,,,,,user24,,,,,
+373,717,习JP,XiJP,user8,,1,,,,,,,user24,,1,,,
+374,718,习书记,Secretary Xi,user8,,,,,,,,,user24,,,,,
+375,719,习皇,Emperor Xi,user8,,,,,1,1,,,user24,,,,,1
+376,720,习夫人,Lady Xi,user8,,,,,,,,,user24,,,,1,1
+377,723,彭夫人,Lady Peng,user8,,,,,,,,,user24,,,,1,1
+378,724,dejiang,dejiang,user8,,,,,,,,,user24,,,,1,1
+379,726,jiaqinglin,jiaqinglin,user8,,1,,,,,,,user24,,1,,1,1
+380,727,jinping,jinping,user8,,,,,,,,,user24,,,,1,1
+381,728,keqiang,keqiang,user8,,,,,,,,,user24,,,,1,1
+382,729,qishan,qishan,user8,,,,,,,,,user24,,,,1,1
+383,731,yunshan,yunshan,user8,,,,,,,,,user24,,,,1,1
+384,732,zhengsheng,zhengsheng,user8,,,,,,,,,user24,,,,1,1
+385,733,七巨头,Seven Chiefs,user8,,,,,1,1,,,user24,,,,1,1
+386,736,刘永清,Liu Yongqing,user8,,,,1,,,,,user24,,,,1,1
+387,738,阎晶晶,Yan Jingjing,user8,,,,,,,,,user24,,,,1,1
+388,739,薄温,Bo Wen,user8,,,,,,,,,user24,,,,1,1
+389,745,习李,Xi-Li,user8,,,,,1,1,,,user24,,,,1,1
+390,747,裸退,naked retirement,user8,,,,,1,1,,,user24,,,,1,1
+391,748,七长老,Seven Elders,user8,,,,1,1,1,,,user24,,,,1,1
+392,756,石巴大,stone bar big,user8,,,,,,,,,user24,,,,1,1
+393,759,屎吧嗒,shit smack,user8,,,,,,,,,user24,,,,1,1
+394,760,屎粑大,the shit cake is big,user8,,1,,,,,,,user24,,1,,1,1
+395,764,撕八大,tear eight big,user8,,,,,,,,,user24,,,,1,1
+396,765,撕巴大,tear bar big,user8,,,,,,,,,user24,,,,1,1
+397,766,死八大,die eight big,user8,,1,,,,,,,user24,,1,,1,1
+398,767,死巴大,die bar big,user8,,,,,,,,,user24,,,,1,1
+399,771,王卫东,Wang Weidong,user8,,,,,,,,,user24,,,,1,1
+400,774,扭腰times,Twisttimes,user8,,,,,,,,,user24,,,,1,1
+401,788,总理+家族,prime minister + family,user9,active,,,,,,,,user25,,,,,
+402,789,总理+财产,prime minister + assets,user9,,,,,,,,,user25,,,,,
+403,792,我们要生存 我们要吃饭,"We want to survive, we want to get by",user9,,,,,,,,,user25,,,,,
+404,794,集体上访,collectively petition officials,user9,,,,,,1,,,user25,,,,,
+405,800,纽约SB,New York SB,user9,,,,,,,,,user25,,,,,
+406,810,温党,Wen Party,user9,,,,,,,,,user25,,,,,
+407,814,温+钻石女王,Wen + diamond queen,user9,,,,,,,,,user25,,,,,
+408,815,杨志云,Yang Zhiyun,user9,,,,,,,,,user25,,,,,
+409,816,段伟红,Duan Weihong,user9,,,,,,,,,user25,,,,,
+410,818,温太子,Crown Prince Wen,user9,,,,1,1,1,1,11/8/2014 11:32,user25,,,,1,1
+411,823,新天域资本公司,New Horizon Capital,user9,,,,,,,,,user25,,,,,
+412,831,拥护+薄,endorse + Bo,user9,,,,,,,,,user25,,,,,
+413,840,刁哥,Brother Sly,user9,,1,,,,,,,user25,,1,,,
+414,860,焦国标,Jiao Guobiao,user9,,,,,,,,,user25,,,,,
+415,866,X近平,XJinping,user9,,1,,,,,,,user25,,1,,,
+416,867,jinping,jinping,user9,,,,,,,,,user25,,,,,
+417,868,近平+车祸,Jinping + car accident,user9,,,,,1,1,,,user25,,,,,
+418,870,HeGuoqiang,HeGuoqiang,user9,,,,,,,,,user25,,,,,
+419,871,百鸡王,King of the Hundred Chickens,user9,,,,1,1,1,,,user25,,,,1,1
+420,877,鱼素鸡,FIsh Veggie Chicken,user9,,1,,,,,,,user25,,1,,,
+421,878,学民思潮,Scholarism,user9,,,,,,,,,user25,,,,,
+422,880,捅鸡局,Bureau of Dicking Around,user9,,,,,,,,,user25,,,,,
+423,881,赵天韶,Zhao Tianshao,user9,,,,,,,,,user25,,,,,
+424,882,顾纪祥,Gu Jiyang,user9,,,,,,,,,user25,,,,,
+425,884,屁民报,Rabble News,user9,,,,,,,,,user25,,,,,
+426,885,P民报,P People News,user9,,,,,,,,,user25,,,,,
+427,888,不雅照,vulgar photos,user9,,,,,,,,,user25,,,,,
+428,890,狐瘟,fox plague,user9,,,,,,,,,user25,,,,,
+429,894,范承秀,Fan Chengxiu,user9,,,,,,,,,user25,,,,,
+430,901,防火长城,Great Firewall,user9,,,,,,,,,user25,,,,,
+431,902,兲朝,Celestial Empire,user9,,,,,1,1,,,user25,,,,,
+432,917,傅政华,Fu Zhenghua,user9,,,,,1,1,,,user25,,,,,
+433,955,正腐,govern-rot,user9,,,,,1,1,,,user25,,,,,
+434,960,刘淇+封山,Liu Qi + close off a mountain,user9,,,,,,,,,user25,,,,,
+435,961,刘淇+围堵,Liu Qi + encircle,user9,,,,,,,,,user25,,,,,
+436,969,XJP,XJP,user9,,,,,1,1,,,user25,,,,,
+437,973,齐桥桥,Qi Qiaoqiao,user9,,1,,,,,,,user25,,1,,,
+438,974,齐安安,Qi An'an,user9,,1,,,,,,,user25,,1,,,
+439,975,邓家贵,Deng Jiagui,user9,,1,,,,,,,user25,,1,,,
+440,977,张燕南,Zhang Yannan,user9,,1,,,,,,,user25,,1,,,
+441,983,you行,youGO,user9,,,,,,,,,user25,,,,,
+442,989,港共,Hong Kong Communist Party,user9,,,,,,,,,user25,,,,,
+443,1008,人权+行动,human rights + action,user9,,,,,,,,,user25,,,,,
+444,1011,boxun,boxun,user9,,,,1,,,,,user25,,,,1,1
+445,1018,李旺阳,Li Wangyang,user9,,,,,1,1,,,user25,,,,,
+446,1028,令公子,Prince Ling,user9,,,,,1,1,1,11/8/2014 10:35,user25,,,,,
+447,1032,国家安全沙皇,national security czar,user9,,,,,1,1,1,11/8/2014 10:35,user25,,,,,
+448,1092,袁木,Yuan Mu,user9,,,,,,,,,user25,,,,,
+449,1094,严家其,Yan Jiaqi,user9,,,,,,,,,user25,,,,,
+450,1095,韩东方,Han Dongfang,user9,,,,,,,,,user25,,,,,
+451,1097,陈子明,Chen Ziming,user10,active,,,,1,1,,,user26,,,,,
+452,1130,马驰+法拉利+新加坡,Ma Chi + Ferrari + Singapore,user10,,,,,1,1,,,user26,,,,,
+453,1132,zy康,zyKang,user10,,,,,1,1,,,user26,,,,,
+454,1133,z永K,zYongK,user10,,,,,1,1,,,user26,,,,,
+455,1134,刘明泽,Liu Mingze,user10,,,,,1,1,,,user26,,,,,
+456,1140,李禾禾,Li Hehe,user10,,,,,1,1,,,user26,,,,,
+457,1141,习公主,Princess Xi,user10,,,,1,1,1,,,user26,,,,1,1
+458,1142,习+明泽,Xi + Mingze,user10,,1,,,1,1,,,user26,,,,,
+459,1145,陈光C,Chen Guang C,user10,,,,,1,1,,,user26,,,,,
+460,1146,陈G诚,Chen G Cheng,user10,,,,,1,1,,,user26,,,,,
+461,1164,光cheng,Guangcheng,user10,,,,,1,1,,,user26,,,,,
+462,1165,guang诚,guangcheng,user10,,,,,1,1,,,user26,,,,,
+463,1168,朝阳医院+华盛顿邮报,Chaoyang Hospital + Washington Post,user10,,,,,1,1,,,user26,,,,,
+464,1176,胡佳+曾金燕,Hu Jia + Zeng Jinyan,user10,,,,,1,1,,,user26,,,,,
+465,1177,王铮,Wang Zheng,user10,,,,,1,1,,,user26,,,,,
+466,1181,何培蓉,He Peirong,user10,,,,,1,1,,,user26,,,,,
+467,1198,权斗 ,power struggle,user10,,,,,1,1,,,user26,,,,,
+468,1213,我们要吃饭,we want to eat,user10,,,,,1,1,,,user26,,,,,
+469,1218,广隶,Guang Li,user10,,,,,1,1,,,user26,,,,,
+470,1244,政治斗争,political struggle,user10,,,,,1,1,,,user26,,,,,
+471,1249,习+薄,Xi + Bo,user10,,,,,1,1,,,user26,,,,,
+472,1250,习储君,Crown Prince Xi,user10,,1,,,1,1,,,user26,,1,,,
+473,1261,习禁评,Xi Cannot-Comment,user10,,1,,,,,,,user26,,1,,,
+474,1262,政法委+培训,Political and Legislative Affairs Committee + training,user10,,,,,,,,,user26,,,,,
+475,1264,HU锦套,HU Embroidered-Set,user10,,,,,1,1,,,user26,,,,,
+476,1265,民主自由,democratic freedom,user10,,,,,,,,,user26,,,,,
+477,1268,温女婿,Wen's son-in-law,user10,,,,,,,,,user26,,,,,
+478,1279,梁振英+同志,Leung Chun-ying + comrade,user10,,,,,1,1,,,user26,,,,,
+479,1285,西藏+自焚,Tibet + self-immolation,user10,,,,,1,1,,,user26,,,,,
+480,1291,张德江,Zhang Dejiang,user10,,,,,,,,,user26,,,,,
+481,1294,政法委+武警,Politics and Law Commission + armed police,user10,,,,1,1,1,,,user26,,,,1,1
+482,1295,北京+军警,Beijing + military and police,user10,,,,,,,,,user26,,,,,
+483,1299,贾公子,Prince Jia,user10,,,,,,,,,user26,,,,,
+484,1302,四大天王+被秒,four great emperors + seconded,user10,,,,,,,,,user26,,,,,
+485,1303,京城+戒严,capital + impose martial law,user10,,,,,1,1,,,user26,,,,,
+486,1304,北京+戒严,Beijing + impose martial law,user10,,,,,1,1,,,user26,,,,,
+487,1305,军队+进京,army + enter the capital,user10,,,,,,,,,user26,,,,,
+488,1306,li长春,li Changchun,user10,,,,,,,,,user26,,,,,
+489,1307,胡石根,Hu Shigen,user10,,,,,,,,,user26,,,,,
+490,1308,封从德,Feng Congde,user10,,,,,1,1,,,user26,,,,,
+491,1309,绝食书,Hunger Strike Declaration,user10,,,,,1,1,,,user26,,,,,
+492,1311,四二六社论,four two six editorial,user10,,,,,1,1,,,user26,,,,,
+493,1312,四二七+游行,four two seven + march,user10,,,,,,,,,user26,,,,,
+494,1314,重庆模式,Chongqing model,user10,,,,,,,,,user26,,,,,
+495,1318,胡core,Hu core,user10,,1,,,,,,,user26,,1,,,
+496,1319,习core,Xi core,user10,,,,,,,,,user26,,1,,,
+497,1320,江+蛤蟆,Jiang + toad,user10,,1,1,1,1,1,,,user26,,1,1,1,1
+498,1321,周永k,Zhou Yongk,user10,,1,,,,,,,user26,,1,,,
+499,1322,zhou永康,zhou Yongkang,user10,,,,1,1,1,,,user26,,,,,
+500,1323,江胡斗,Jiang-Hu fight,user10,,1,,,,,,,user26,,,,,
+501,1327,造反,rebel,user11,active,,,,,,,,user27,,,,,
+502,1328,中共+内讧,CCP + internal conflict,user11,,,,,,,,,user27,,,,,
+503,1329,高层+内讧,high level + internal conflict,user11,,,,,,,,,user27,,,,,
+504,1330,高层+内斗,high level + internal struggle,user11,,,,,,,,,user27,,,,,
+505,1334,水工系,Department of Irrigation Works,user11,,,,,,,,,user27,,,,,
+506,1336,江小鱼,Jiang Little-fish,user11,,,,,,,,,user27,,,,,
+507,1339,习+太子,Xi + princeling,user11,,1,,,,,,,user27,,,,,
+508,1341,zhou yongkang,zhou yongkang,user11,,,,,,1,,,user27,,,,,
+509,1342,ZYK,ZYK,user11,,,,,,,,,user27,,,,,
+510,1343,周YK,Zhou YK,user11,,1,,,,,,,user27,,1,,,
+511,1345,帝都,imperial capital,user11,,,,,,,,,user27,,,,,
+512,1348,番号不明部队,troops of unclear designation,user11,,,,,,,,,user27,,,,,
+513,1349,天线宝宝+康师傅,Teletubby + Kang Shifu,user11,,,,1,1,1,1,11/8/2014 11:34,user27,,,,1,1
+514,1354,京城+内斗,capital + internal struggle,user11,,,,,,,,,user27,,,,,
+515,1355,北京+内斗,Beijing + internal struggle,user11,,,,,,,,,user27,,,,,
+516,1356,中共+内斗,CCP + internal struggle,user11,,,,,,,,,user27,,,,,
+517,1361,政变,coup d'état,user11,,,,,,1,,,user27,,,,,
+518,1364,军车如林,forest of military vehicles,user11,,,,,,,,,user27,,,,,
+519,1366,北京高层,Beijing high level,user11,,,,,,,,,user27,,,,,
+520,1383,李月月鸟,Li Moon Moon Bird [Li Peng],user11,,,,,,,,,user27,,,,,
+521,1386,东方红时空,East Is Red Space (CCTV staff Spring Festival show),user11,,,,,,,,,user27,,,,,
+522,1388,章沁生,Zhang Qinsheng,user11,,,,,,,,,user27,,,,,
+523,1402,姜维平,Jiang Weiping,user11,,,,,,,,,user27,,,,,
+524,1405,邱进,Qiu Jin,user11,,,,,,,,,user27,,,,,
+525,1410,薄督,Captain Bo,user11,,,,,,,,,user27,,,,,
+526,1432,宪政民主,constitutional democracy,user11,,,,,,,,,user27,,,,,
+527,1435,反共,anti-communist,user11,,,,,1,1,,,user27,,,,,
+528,1442,台湾独立,Taiwan independence,user11,,,,,1,1,,,user27,,,,,
+529,1450,影帝温,Movie Star Wen,user11,,1,,,1,1,1,11/8/2014 10:41,user27,,1,,,
+530,1451,东京热,Tokyo-Hot,user11,,,,,,,,,user27,,,,,
+531,1453,余杰,Yu Jie,user11,,,,,,,,,user27,,,,,
+532,1458,独立中文笔会,Independent Chinese PEN Center,user11,,,,,1,1,,,user27,,,,,
+533,1459,中国之春,Chinese Spring,user11,,,1,1,1,1,,,user27,,,1,1,1
+534,1460,黄雀行动,Operation Yellowbird,user11,,,,,1,1,,,user27,,,,,
+535,1461,高自联,Capital Autonomous Federation of University Students,user11,,,1,1,1,1,,,user27,,,1,1,1
+536,1462,北高联,Capital Autonomous Federation of University Students ,user11,,,,,,,,,user27,,,,,
+537,1464,夺权,seize power,user11,,,,,,,,,user27,,,,,
+538,1466,朝鲜+政变,North Korea + coup,user11,,,,,,,,,user27,,,,,
+539,1469,lichangchun,lichangchun,user11,,1,,,,,,,user27,,1,,,
+540,1470,xijinping,xijinping,user11,,,,,,,,,user27,,,,,
+541,1471,煽动颠覆国家政权,incite subversion of state power,user11,,,,,,,,,user27,,,,,
+542,1473,热比娅,Libya,user11,,,,,,,,,user27,,,,,
+543,1475,港支联会,Hong Kong Alliance,user11,,,,,,1,1,11/8/2014 11:34,user27,,,,,
+544,1478,吕加平,Lü Jiaping,user11,,,,,,,,,user27,,,,,
+545,1479,江宋,Jiang Song (Jiang Zemin),user11,,,,,,,,,user27,,,,,
+546,1521,宪章,charter,user11,,,,,,1,1,11/8/2014 13:25,user27,,,,,
+547,1525,学联,student federation,user11,,,,,,,,,user27,,,,,
+548,1535,僧人自焚,monk self-immolates,user11,,,,,,,,,user27,,,,,
+549,1542,习太子,Princeling Xi,user11,,1,,,,,,,user27,,1,,,
+550,1543,习王储,Crown Prince Xi,user11,,1,,,,,,,user27,,1,,,
+551,1544,忠党国,faithful to the party-state,user12,active,,,,,,,,user28,deleted,,,,.
+552,1545,垮台,fall from power,user12,,,,,,,,,user28,deleted,,,,.
+553,1551,辛子陵,Xin Ziling,user12,,,,,,1,,,user28,deleted,,,,.
+554,1552,博讯,Boxun,user12,,,,1,1,1,,,user28,deleted,,,1,.
+555,1561,裆中央,Central Crotch (CCP),user12,,,,,,1,,,user28,deleted,,,,.
+556,1562,姬胜德,Ji Shengde,user12,,,,,,1,,,user28,deleted,,,,.
+557,1566,胡海青,Hu Haiqing,user12,,,,,,1,,,user28,deleted,,,,.
+558,1568,王荔蕻,Wang Lihong,user12,,,,,,1,,,user28,deleted,,,,.
+559,1572,政治体制改革,reform of the political structure,user12,,,,,,,,,user28,deleted,,,,.
+560,1573,内斗,internal struggle,user12,,,,,,1,,,user28,deleted,,,,.
+561,1574,裸聊,naked chat,user12,,,,,,,,,user28,deleted,,,,.
+562,1586,北戴河会议,Beidaihe Meeting,user12,,,,1,1,1,,,user28,deleted,,,1,.
+563,1592,派系,faction,user12,,,,,,1,,,user28,deleted,,,,.
+564,1600,江 亲信（词组或短语）,Jiang trusted followers,user12,,,,,,1,,,user28,deleted,,,,.
+565,1601,江系,Jiang system,user12,,,,,,,,,user28,deleted,,,,.
+566,1604,阳光时务,iSun Affairs,user12,,,,,,,,,user28,deleted,,,,.
+567,1607,雪山狮子旗,snow lion flag,user12,,,,,,,,,user28,deleted,,,,.
+568,1609,火药配方,gunpowder formula,user12,,,,,,1,,,user28,deleted,,,,.
+569,1616,艾ww,Ai ww,user12,,,,,,1,,,user28,deleted,,,,.
+570,1617,血染的风采,Bloodstained Glory,user12,,,,1,1,1,,,user28,deleted,,,1,.
+571,1625,吉林战士（短语或组合）,Jilin combatant (stand-along phrase or phrase containing these words),user12,,,,,,1,,,user28,deleted,,,,.
+572,1632,正无,[meaning unknown],user12,,,,,,1,,,user28,deleted,,,,.
+573,1643,艾末末,Ai Weiwei,user12,,,,,,1,,,user28,deleted,,,,.
+574,1651,艾神,the god Ai,user12,,,,,,1,,,user28,deleted,,,,.
+575,1657,tiananmen square,tiananmen square,user12,,,,,,,,,user28,deleted,,,,.
+576,1663,一党专制,one-party autocracy,user12,,,,,,,,,user28,deleted,,,,.
+577,1664,异议人士,dissident,user12,,,,,,1,,,user28,deleted,,,,.
+578,1665,异见人士,dissident,user12,,,,,,1,,,user28,deleted,,,,.
+579,1666,持不同政见,have different political views,user12,,,,,,1,,,user28,deleted,,,,.
+580,1669,刘宾雁,Liu Binyan,user12,,,,,,1,,,user28,deleted,,,,.
+581,1670,蟹农场,Hexie Farm,user12,,,,,,1,,,user28,deleted,,,,.
+582,1687,wenjiabao,wenjiabao,user12,,1,,,,1,,,user28,deleted,1,,,.
+583,1688,jiangzemin,jiangzemin,user12,,1,,,,1,,,user28,deleted,1,,,.
+584,1689,wubangguo,wubangguo,user12,,1,,,,1,,,user28,deleted,1,,,.
+585,1690,方励之,Fang Lizhi,user12,,,,,,1,,,user28,deleted,,,,.
+586,1692,胡金滔,Hu Jintao,user12,,,,,,1,,,user28,deleted,,,,.
+587,1693,胡掏X,Hu TaoX,user12,,,,,,1,,,user28,deleted,,,,.
+588,1699,胡紧X,Hu JinX,user12,,,,,,1,,,user28,deleted,1,,,.
+589,1703,liu四,liu four,user12,,,,,,1,,,user28,deleted,,,,.
+590,1707,陆四,"Lu four [sounds like ""liu si"" 64]",user12,,,,1,1,1,,,user28,deleted,,,1,.
+591,1709,良心犯,prisoner of conscience,user12,,,,,,1,,,user28,deleted,,,,.
+592,1710,瘟家保,Wen Jiabao,user12,,,,1,1,1,,,user28,deleted,,,1,.
+593,1711,瘟假报,Wen Jiabao,user12,,1,,,,1,,,user28,deleted,1,,,.
+594,1712,温假报,Wen Jiabao,user12,,1,,,,1,,,user28,deleted,1,,,.
+595,1713,温夹包,Wen Jiabao,user12,,,,,,1,,,user28,deleted,,,,.
+596,1714,温佳宝,Wen Jiabao,user12,,,,,,1,,,user28,deleted,1,,,.
+597,1720,德江,Dejiang,user12,,,,,,1,,,user28,deleted,,,,.
+598,1728,反攻大陆,counterattack on the mainland,user12,,,,,,1,,,user28,deleted,,,,.
+599,1734,性浪,Sex Wave [Sina],user12,,,,,,1,,,user28,deleted,,,,.
+600,1735,自由光诚,free Guangcheng,user12,,,,,,1,,,user28,deleted,,,,.
+601,1737,要有诚,let there be truth,user13,active,,,,,1,,,user29,deleted,,,,.
+602,1779,占领中南海,occupy Zhongnanhai,user13,,,,,,1,,,user29,deleted,,,,.
+603,1780,占领金融街,Occupy Wall Street,user13,,,,,,1,,,user29,deleted,,,,.
+604,1784,西朝鲜,West Korea,user13,,,,,1,1,,,user29,deleted,,,,.
+605,1790,张澜澜,Zhang Lanlan [Zhang Xiaoxue],user13,,,,1,1,1,,,user29,deleted,,,,.
+606,1796,三退,"Three Leaves (Falungong pledge to leave the Party, the Communist Youth League, and the Young Pioneers)",user13,,,,,,,,,user29,deleted,,,,.
+607,1797,明慧,Minghui (Falungong website),user13,,,,,,,,,user29,deleted,,,,.
+608,1800,退党,leave the Party,user13,,,,1,1,1,,,user29,deleted,,,,.
+609,1801,暴政,tyranny,user13,,,,1,1,1,,,user29,deleted,,,,.
+610,1803,党棍,party boss,user13,,,,,,,,,user29,deleted,,,,.
+611,1805,党国,party-state,user13,,,,,,,,,user29,deleted,,,,.
+612,1806,胡+温,Hu + Wen,user13,,1,,,,,,,user29,deleted,1,,,.
+613,1818,毛腊肉,Mao Cured-meat (Mao Zedong),user13,,,,1,1,1,,,user29,deleted,,,1,.
+614,1819,土共,tugong (Hong Kong supporters of the CCP),user13,,,,1,1,1,,,user29,deleted,,,1,.
+615,1821,人民报,People's Paper (overseas),user13,,,1,1,1,1,,,user29,deleted,,1,1,.
+616,1826,郭伯雄,Guo Boxiong,user13,,,,,1,1,,,user29,deleted,,,,.
+617,1827,陈炳德,Chen Bingde,user13,,,,,,,,,user29,deleted,,,,.
+618,1847,刘奇葆,Liu Qibao,user13,,,,,1,1,,,user29,deleted,,,,.
+619,1853,江戏子,Actor Wen [Jiabao],user13,,,,,,,,,user29,deleted,,,,.
+620,1854,温影帝,Movie Star Wen [Jiabao],user13,,1,,,,,,,user29,deleted,1,,,.
+621,1856,滕彪,Teng Biao,user13,,,,,1,1,,,user29,deleted,,,,.
+622,1857,谭作人,Tan Zuoren,user13,,,,1,1,1,,,user29,deleted,,,1,.
+623,1858,六合彩,Mark Six,user13,,,,,,,,,user29,deleted,,,,.
+624,1859,九评,Nine Commentaries,user13,,,,,1,1,,,user29,deleted,,,,.
+625,1860,flg,flg,user13,,,,,1,1,,,user29,deleted,,,,.
+626,1861,历史的伤口,Wound of History (song about Tiananmen Square Massacre),user13,,,,,1,1,,,user29,deleted,,,.,.
+627,1862,学潮,student movement,user13,,,,,1,1,,,user29,deleted,,,.,.
+628,1863,民主女神,Goddess of Democracy,user13,,,,,1,1,,,user29,deleted,,,.,.
+629,1864,血染的风采,Bloodstained Glory (patriotic song),user13,,,,1,1,1,,,user29,deleted,,,.,.
+630,1867,中国民主党,Chinese Democratic Party,user13,,,1,1,1,1,,,user29,deleted,,1,.,.
+631,1869,一中一台,"one China, one Taiwan",user13,,,,,,,,,user29,deleted,,,.,.
+632,1870,暴乱,riot,user13,,,,,1,1,,,user29,deleted,,,.,.
+633,1873,团派,Tuanpai (Communist Youth League faction),user13,,,,,,,,,user29,deleted,,,.,.
+634,1874,5月35日,May 35th,user13,,,,1,1,1,,,user29,deleted,,,.,.
+635,1879,坦克人,Tank Man,user13,,,,1,1,1,,,user29,deleted,,,.,.
+636,1881,真理部,Ministry of Truth,user13,,,,1,1,1,,,user29,deleted,,,.,.
+637,1882,网管办,Internet Management Office,user13,,,,1,1,1,,,user29,deleted,,,.,.
+638,1883,国新办,State Council Information Office,user13,,,,,,,,,user29,deleted,,,.,.
+639,1884,中宣部,Central Propaganda Department,user13,,,,,1,1,,,user29,deleted,,,.,.
+640,1889,滕彪,Teng Biao,user13,,,,,1,1,,,user30,deleted,,,,.
+641,1899,北京当局,Beijing authorities,user13,,,1,1,1,1,,,user30,deleted,,1,1,.
+642,1906,学潮,student movement,user13,,,,,1,1,,,user30,deleted,,,,.
+643,1912,GFW,GFW,user13,,,,,1,1,,,user30,deleted,,,,.
+644,1924,艾未未,Ai Weiwei,user13,,,,,1,1,,,user30,deleted,,,,.
+645,1928,GFW,GFW,user13,,,,,1,1,,,user30,deleted,,,,.
+646,1929,翻墙,scale the wall,user13,,,,,,,,,user30,deleted,,,,.
+647,1932,网管办,Internet Management Office,user13,,,,1,1,1,,,user30,deleted,,,1,.
+648,1933,国新办,State Council Information Office,user13,,,,,1,1,,,user30,deleted,,,,.
+649,1934,真理部,Ministry of Truth,user13,,,,1,1,1,,,user30,deleted,,,1,.
+650,1948,蛤蟆,toad,user13,,,,,,,,,user30,deleted,,,,.
+651,1949,癩蛤蟆,toad,user14,active,,,,,,,,user30,deleted,,,,.
+652,1966,江主席,Chairman Jiang,user14,,1,,,,,,,user30,deleted,1,,,.
+653,1970,江核心,Jiang Core,user14,,,,,,,,,user30,deleted,,,,.
+654,1971,江泽民,Jiang Zemin,user14,,,,,,,,,user30,deleted,,,,.
+655,1972,江泽明,Jiang Zeming,user14,,,,,,,,,user30,deleted,,,,.
+656,1976,江爷爷,Grandpa Jiang,user14,,,,,,,,,user30,deleted,,,,.
+657,1977,老江,Old Jiang,user14,,,,,,1,,,user30,deleted,,,,.
+658,1980,江core,Jiang core,user14,,1,,,,,,,user30,deleted,1,,1,.
+659,1986,国母,first lady,user14,,,,,,,,,user30,deleted,,,,.
+660,1992,中南海,Zhongnanhai,user14,,,,,,,,,user30,deleted,,,,.
+661,2028,六四,six four,user14,,,,1,1,1,,,user30,deleted,,,1,.
+662,2029,学运,student movement,user14,,,,,,1,,,user30,deleted,,,,.
+663,2035,学潮,student strike,user14,,,,,,1,,,user30,deleted,,,,.
+664,2037,祖国母亲,motherland mothers,user14,,,,,,,,,user30,deleted,,,,.
+665,2041,江泽民,Jiang Zemin,user14,,,,,,,,,user30,deleted,,,,.
+666,2042,赵紫阳,Zhao Ziyang,user14,,,1,1,1,1,,,user30,deleted,,1,1,.
+667,2044,丁子霖,Ding Zilin,user14,,,1,1,1,1,,,user30,deleted,,1,1,.
+668,2045,学生领袖,student leader,user14,,,,,,1,,,user30,deleted,,,,.
+669,2049,坦克人,Tank Man,user14,,,,1,1,1,,,user30,deleted,,,1,.
+670,2051,5月35日,May 35th,user14,,,,1,1,1,,,user30,deleted,,,1,.
+671,2054,藏独,Tibet independence,user14,,,,,,,,,user30,deleted,,,,.
+672,2055,西藏独立,Tibet independence,user14,,,,,,1,,,user30,deleted,,,,.
+673,2061,江家帮,Jiang family gang,user14,,1,,,,,,,user30,deleted,1,,,.
+674,2062,门徒会,Disciple Association,user14,,,,,,1,,,user30,deleted,,,,.
+675,2063,江端仪,Jiang Duanyi,user14,,,,,,,,,user30,deleted,,,,.
+676,2066,刘晓波,Liu Xiaobo,user14,,,,,,1,,,user30,deleted,,,1,.
+677,2067,64学运,64 student movement,user14,,,,,,1,,,user30,deleted,,,1,.
+678,2068,64学潮,64 student strike,user14,,,,,,1,,,user30,deleted,,,1,.
+679,2069,89学潮,89 student strike,user14,,,,1,1,1,,,user30,deleted,,,1,.
+680,2070,89学运,89 student movement,user14,,,,,,,,,user30,deleted,,,1,.
+681,2073,89事件,89 incident,user14,,,,1,1,1,,,user30,deleted,,,1,.
+682,2074,假庆淋,Fake [Jia] Qinglin,user14,,,,,,,,,user30,deleted,,,1,.
+683,2075,推翻共党,topple the Communist Party,user14,,,,1,1,1,,,user30,deleted,,,1,.
+684,2076,阴唇被插,vulva is penetrated,user14,,,,,,,,,user30,deleted,,,1,.
+685,2077,中共暴政,CCP tyranny,user14,,1,,,,,,,user30,deleted,1,,1,.
+686,2078,突厥革命,Turkic revolution (Xinjiang),user14,,,,,,1,,,user30,deleted,,,1,.
+687,2082,六四学运,Six-Four student movement,user14,,,,1,1,1,,,user30,deleted,,,1,.
+688,2083,六四学潮,Six-Four student strike,user14,,,,1,1,1,,,user30,deleted,,,1,.
+689,2084,八九学运,Eighty-Nine student movement,user14,,,,,,1,,,user30,deleted,,,1,.
+690,2087,打倒中共,overthrow the CCP,user14,,,,,,,,,user30,deleted,,,1,.
+691,2088,打倒共党,strike down the CCP,user14,,,,1,1,1,,,user30,deleted,,,1,.
+692,2089,一党独裁,one-party dictatorship,user14,,,,1,1,1,,,user30,deleted,,,1,.
+693,2090,团派人马,Youth League faction troops,user14,,,,,,,,,user30,deleted,,,1,.
+694,2091,李鹏病重,Li Peng seriously ill,user14,,,,,,,,,user30,deleted,,,1,.
+695,2093,胡温政治,Hu-Wen politics,user14,,1,,,,,,,user30,deleted,1,,1,.
+696,2094,胡温政体,Hu-Wen system of government,user14,,1,,,,,,,user30,deleted,1,,1,.
+697,2095,胡温核心,Hu-Wen inner circle,user14,,1,,,,,,,user30,deleted,1,,1,.
+698,2096,胡温暴政,Hu-Wen tyranny,user14,,1,,,,,,,user30,deleted,1,,1,.
+699,2097,推翻中共,topple the CCP,user14,,,,,,,,,user31,deleted,,,,
+700,2099,中国新民党,China New Democracy Party,user14,,,,,,,,,user31,deleted,,,,
+701,2103,中南海斗争,Zhongnanhai fight,user15,48hrban,,,,,1,,,user31,deleted,,,,
+702,2104,九评共产党,Nine Commentaries on the Communist Party,user15,,,,,,,,,user31,deleted,,,,
+703,2106,推翻共产党,topple the Communist Party,user15,,,,1,1,1,,,user31,deleted,,,1,
+704,2108,胡温接班人,Hu-Wen successors,user15,,1,,,,,,,user31,deleted,1,,,
+705,2111,中共独裁暴政,CCP dictatorial tyranny,user15,,,,,,,,,user31,deleted,,,,
+706,2112,团派政治明星,Youth League faction political stars,user15,,,,,,,,,user31,deleted,,,,
+707,2114,自由亚洲电台,Radio Free Asia,user15,,,,,,1,,,user31,deleted,,,,
+708,2115,打倒中国共产党,overthrow the Chinese Communist Party,user15,,,,,,1,,,user31,deleted,,,,
+709,2117,自焚,self-immolate,user15,,,,,,,,,user31,deleted,,,,
+710,2118,达赖,Dalai,user15,,,,,,1,,,user31,deleted,,,,
+711,2123,共匪,communist bandit,user15,,1,,1,1,1,,,user31,deleted,1,,1,
+712,2126,朱镕基,Zhu Rongij,user15,,,,,,1,1,11/8/2014 15:31,user31,deleted,,,,
+713,2127,太子党,princeling party,user15,,,,,,1,1,11/8/2014 15:27,user31,deleted,,,,
+714,2130,张德江,Zhang Dejiang,user15,,,,,,,,,user31,deleted,,,,
+715,2133,婴儿汤,baby soup,user15,,,,,,,,,user31,deleted,,,,
+716,2134,网民党,Netizen Party,user15,,,,,,,,,user31,deleted,,,,
+717,2136,郭伯雄,Guo Boxiong,user15,,,,,,1,1,11/8/2014 15:31,user31,deleted,,,,
+718,2143,江泽民,Jiang Zemin,user15,,,,,,,,,user31,deleted,,,,
+719,2148,一党专政,one-party dictatorship,user15,,,,1,1,1,,,user31,deleted,,,1,
+720,2150,炸弹制作,bomb manufacture,user15,,,,,,,,,user31,deleted,,,,
+721,2157,共贪党,Commu-greed Party,user15,,,,,,,,,user31,deleted,,,,
+722,2158,胡海清,Hu Haiqing,user15,,,,,,1,1,11/8/2014 15:27,user31,deleted,,,,
+723,2159,温云松,Wen Yunsong,user15,,,,,,1,1,11/8/2014 15:31,user31,deleted,,,,
+724,2161,共惨党,Commu-cruel Party,user15,,1,,,,,,,user31,deleted,1,,,
+725,2162,真善忍,"truthfulness, compassion, forebearance",user15,,,,,,1,,,user31,deleted,,,,
+726,2163,共残党 ,Commu-crush Party,user15,,1,,,,,,,user31,deleted,1,,.,.
+727,2164,八九学潮,Eighty-Nine campus strike,user15,,,,,1,1,,,user31,deleted,,,.,.
+728,2165,六四事件,Six-Four Incident,user15,,,,1,1,1,,,user31,deleted,,,.,.
+729,2166,胡温新政,Hu-Wen new policy,user15,,1,,,,,,,user31,deleted,1,,.,.
+730,2168,广场上的热血,hot blood on the square,user15,,,,,1,1,,,user31,deleted,,,.,.
+731,2173,胡温,Hu-Wen,user15,,1,,,,,,,user31,deleted,1,,.,.
+732,2175,团派,Youth League faction,user15,,,,,,,,,user31,deleted,,,.,.
+733,2176,李鹏,Li Peng,user15,,,,,,,,,user31,deleted,,,.,.
+734,2181,戒严,impose martial law,user15,,,,,,,,,user31,deleted,,,.,.
+735,2184,九评,nine commentaries,user15,,,,,1,1,,,user31,deleted,,,.,.
+736,2195,上海帮,Shanghai gang,user15,,,,1,1,1,,,user31,deleted,,,.,.
+737,2200,瘟家宝,Plague [Wen] Jiabao,user15,,1,,,,,,,user31,deleted,1,,.,.
+738,2201,新左派,new lefists,user15,,,,,,,,,user31,deleted,,,.,.
+739,2203,网管办,Internet Management Office,user15,,,,1,,,,,user31,deleted,,,.,.
+740,2210,中南海,Zhongnanhai,user15,,,,,,,,,user31,deleted,,,.,.
+741,2220,出售枪支,sell firearms,user15,,,,,1,1,,,user31,deleted,,,.,.
+742,2221,ZHU所生！,what ZHU gave birth to!,user15,,,,,,,,,user31,deleted,,,.,.
+743,2225,周名军,Zhou Mingjun,user15,,,,,,,,,user31,deleted,,,.,.
+744,2226,李现原,Li Xianyuan,user15,,,,,,,,,user31,deleted,,,.,.
+745,2228,方寿伟,Fang Taowei,user15,,,,,,,,,user31,deleted,,,.,.
+746,2229,秦逊辉,Qin Sunhui,user15,,,,,,,,,user31,deleted,,,.,.
+747,2232,操女人穴,f**k women's holes,user15,,,,,,,,,user31,deleted,,,.,.
+748,2233,人权圣火,Human Rights Torch [Relay],user15,,,,,1,1,,,user31,deleted,,,.,.
+749,2235,胡曾联手,Hu and Zeng join hands,user15,,,,,,,,,user32,deleted,,,,.
+750,2237,超越红墙,Beyond the Red Wall,user15,,,,,,,,,user32,deleted,,,,.
+751,2239,胡曾江恶斗,Hu-Zeng-Jiang battle royal,user16,active,,,,,,,,user32,deleted,,,,.
+752,2249,罗干,Luo Gan,user16,,,,,,1,,,user32,deleted,,,,.
+753,2254,共铲党,Shared Shovel Party,user16,,1,,,,,,,user32,deleted,1,,,.
+754,2255,胡海峰,Hu Haifeng,user16,,,,,,1,,,user32,deleted,,,,.
+755,2256,法轮功,Falungong,user16,,,1,1,1,1,,,user32,deleted,,1,1,.
+756,2257,赵紫阳,Zhao Ziyang,user16,,,1,1,1,1,,,user32,deleted,,1,1,.
+757,2259,李洪志,Li Hongzhi,user16,,,1,1,1,1,,,user32,deleted,,1,1,.
+758,2260,新唐人,New Tang Dynasty,user16,,,,,,1,1,11/8/2014 13:50,user32,deleted,,,,.
+759,2261,大纪元,Epoch Times,user16,,,,,,1,1,11/8/2014 13:50,user32,deleted,,,,.
+760,2262,零八宪章,Charter Oh-Eight,user16,,,,,,,,,user32,deleted,1,,,.
+761,2263,08宪章,Charter 08,user16,,,,1,1,,,,user32,deleted,,,1,.
+762,2264,吾尔开希,Wu'erkaixi,user16,,,1,1,1,1,,,user32,deleted,,1,1,.
+763,2266,六四运动,June Fourth Movement,user16,,,,1,1,1,1,11/8/2014 13:50,user32,deleted,,,1,.
+764,2267,打倒共产党,overthrow the Communist Party,user16,,1,,1,1,1,,,user32,deleted,1,,1,.
+765,2270,魏京生,Wei Jingsheng,user16,,,1,1,1,1,,,user32,deleted,,1,1,.
+766,2271,胡紧掏,Hu Tight-pull (Hú Jǐntāo),user16,,1,,,,,,,user32,deleted,1,,,.
+767,2272,温加饱,Warm Add-full (Wēn Jiābǎo),user16,,1,,,,,,,user32,deleted,1,,,.
+768,2285,free Tibet,free Tibet,user16,,,,,,,,,user32,deleted,,,,.
+769,2310,三唑仑,Triazolam,user16,,,,1,1,1,,,user32,deleted,,,1,.
+770,2317,张培莉,Zhang Peili,user16,,,,,,1,1,11/8/2014 14:39,user32,deleted,,,,.
+771,2321,安魂网,Anhun Net,user16,,,,,1,1,,,user32,deleted,,,,.
+772,2328,追查国际,investiage internationally,user16,,,,,,,,,user32,deleted,,,,.
+773,2333,美国之音,Voice of America,user16,,,,,1,1,,,user32,deleted,,,,.
+774,2335,平反六四,redress June Fourth,user16,,1,,1,1,1,,,user32,deleted,1,,1,.
+775,2353,博讯新闻网,Boxun News Net,user16,,,,1,1,1,,,user32,deleted,,,1,.
+776,2360,推翻中国共产党,topple the Chinese Communist Party,user16,,,,1,1,1,,,user32,deleted,,,1,.
+777,2362,GCD,GCD,user16,,,,,,,,,user32,deleted,,,,.
+778,2365,胡江,Hu-Jiang,user16,,,,,1,1,,,user32,deleted,,,,.
+779,2376,老胡,Old Hu,user16,,,,,,,,,user32,deleted,,,,.
+780,2380,党禁,ban on political parties,user16,,,,,,,,,user32,deleted,,,,.
+781,2381,党魁,party boss,user16,,,,,,,,,user32,deleted,,,,.
+782,2394,人权奖,human rights prize,user16,,,,,1,1,,,user32,deleted,,,,.
+783,2398,动态网,dongtaiwang,user16,,,,,1,1,,,user32,deleted,,,,.
+784,2405,温爷爷,Grandpa Wen,user16,,,,,,,,,user32,deleted,,,,.
+785,2414,新闻办,State Council Information Office,,,,,,,,,,user32,deleted,,,,.
+786,2415,李世辉,Li Shihui,,,,,,,,,,user32,deleted,,,,.
+787,2416,陈一文,Chen Yiwen,,,,,,,,,,user32,deleted,,,,.
+788,2417,余秋雨,Yu Qiuyu,,,,,,,,,,user32,deleted,,,,.
+789,2418,李国谅,Li Guoliang,,,,,,,,,,user32,deleted,,,,.
+790,2419,瀛海镇,Yinghai Township,,,,,,,,,,user32,deleted,,,,.
+791,2420,十九年前,nineteen years ago,,,,,,,,,,user32,deleted,,,,.
+792,2421,整肃官场,clean up officialdom,,,,,,,,,,user32,deleted,,,,.
+793,2422,齐鲁石化,Qilu Petrochemicals,,,,,,,,,,user32,deleted,,,,.
+794,2423,抵制奥运,boycott Olympics,,,,,,,,,,user32,deleted,,,,.
+795,2424,三个代表,Three Represents,,,,,,,,,,user32,deleted,,,,.
+796,2425,西藏局势,Tibet situation,,,,,,,,,,user32,deleted,,,,.
+797,2426,维基百科,Wikipedia,,,,,,,,,,user32,deleted,,,,.
+798,2427,BBC中文网,BBC Chinese Net,,,,,,,,,,user32,deleted,,,,.
+799,2428,德国之声,Deutsche Welle,,,,,,,,,,user32,deleted,,,,.
+800,2429,大赦国际,Amnesty International,,,,,,,,,,user32,deleted,,,,.
+801,0,共产党,The Communist Party,,,,,,,,,,user32,deleted,,,,.
+802,0,阶级和阶级斗争,Classes and Class Struggle,,,,,,,,,,user32,deleted,,,,.
+803,0,社会主义和共产主义,Socialism and Communism,,,,,,,,,,user32,deleted,,,,.
+804,0,正确处理人民内部矛盾,The Correct Handling of Contradictions Among the People,,,,,,,,,,user32,deleted,,,,.
+805,0,战争与和平,War and Peace,,,,,,,,,,user32,deleted,,,,.
+806,0,帝国主义和一切反动派都是纸老虎,Imperialism and All Reactionaries Are Paper Tigers,,,,,,,,,,user32,deleted,,,,.
+807,0,敢于斗争，敢于胜利,Dare to Struggle and Dare to Win,,,,,,,,,,user32,deleted,,,,.
+808,0,人民战争,People's War,,,,,,,,,,user32,deleted,,,,.
+809,0,人民军队,The People's Army,,,,,,,,,,user33,,,,,
+810,0,党委领导,Leadership of Party Committees,,,,,,,,,,user33,,,,,
+811,0,群众路线,The Mass Line,,,,,,,,,,user33,,,,,
+812,0,政治工作,Political Work,,,,,,,,,,user33,,,,,
+813,0,官兵关系,Relations Between Officers and Men,,,,,,,,,,user33,,,,,
+814,0,军民关系,Relations Between the Army and the People,,,,,,,,,,user33,,,,,
+815,0,三大民主,Democracy in the Three Main Fields,,,,,,,,,,user33,,,,,
+816,0,教育和训练,Education and the Training of Troops,,,,,,,,,,user33,,,,,
+817,0,为人民服务,Serving the People,,,,,,,,,,user33,,,,,
+818,0,爱国主义和国际主义,Patriotism and Internationalism,,,,,,,,,,user33,,,,,
+819,0,革命英雄主义,Revolutionary Heroism,,,,,,,,,,user33,,,,,
+820,0,勤俭建国,Building Our Country Through Diligence and Frugality,,,,,,,,,,user33,,,,,
+821,0,自力更生，艰苦奋斗,Self-Reliance and Arduous Struggle,,,,,,,,,,user33,,,,,
+822,0,思想方法和工作方法,Methods of Thinking and Methods of Work,,,,,,,,,,user33,,,,,
+823,0,调查研究,Investigation and Study,,,,,,,,,,user33,,,,,
+824,0,纠正错误思想,Correcting Mistaken Ideas,,,,,,,,,,user33,,,,,
+825,0,团结,Unity,,,,,,,,,,user33,,,,,
+826,0,纪律,Discipline,,,,,,,,,,user33,,,,,
+827,0,批评和自我批评,Criticism and Self-Criticism,,,,,,,,,,user33,,,,,
+828,0,共产党员,Communists,,,,,,,,,,user33,,,,,
+829,0,干部,Cadres,,,,,,,,,,user33,,,,,
+830,0,青年,Youth,,,,,,,,,,user33,,,,,
+831,0,妇女,Women,,,,,,,,,,user33,,,,,
+832,0,文化艺术,Culture and Art,,,,,,,,,,user33,,,,,
+833,0,学习,Study,,,,,,,,,,user33,,,,,
+834,0,Four ,,,,,,,,,,,user33,,,,,
+835,0,score ,,,,,,,,,,,user33,,,,,
+836,0,and,,,,,,,,,,,user33,,,,,
+837,0,seven,,,,,,,,,,,user33,,,,,
+838,0,years,,,,,,,,,,,user33,,,,,
+839,0,ago,,,,,,,,,,,user34,,,,,
+840,0,our,,,,,,,,,,,user34,,,,,
+841,0,fathers,,,,,,,,,,,user34,,,,,
+842,0,brought,,,,,,,,,,,user34,,,,,
+843,0,forth,,,,,,,,,,,user34,,,,,
+844,0,on this,,,,,,,,,,,user34,,,,,
+845,0,continent,,,,,,,,,,,user34,,,,,
+846,0,a new,,,,,,,,,,,user34,,,,,
+847,0,nation,,,,,,,,,,,user34,,,,,
+848,0,conceived,,,,,,,,,,,user34,,,,,
+849,0,in,,,,,,,,,,,user34,,,,,
+850,0,liberty,,,,,,,,,,,user34,,,,,
+,,,,,,,,,,,,,,,,,,
